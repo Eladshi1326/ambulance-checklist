@@ -14,7 +14,7 @@ body {
   -webkit-tap-highlight-color: transparent;
 }
 
-/* checkbox */
+/* צ'קבוקס מותאם גדול וברור */
 input[type='checkbox'] {
   accent-color: #dc2626;
 }
